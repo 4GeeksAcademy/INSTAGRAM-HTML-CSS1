@@ -1,0 +1,57 @@
+
+body{
+    
+    
+    float: calc(margin);
+    border-radius: 50px;
+
+}
+*{
+    margin:0;
+    padding: 1px;
+    border: 150px;
+
+}
+
+.content{
+    position: relative;
+    display: flex;
+    left: 450px;
+    
+}
+.text{
+    display: flex;
+    position: absolute;
+    margin-top: 20px;
+    left: 200px;
+    align-items: 580px;
+    
+    
+    
+}
+
+.date{
+    display: flex;
+    position: relative;
+    margin-top: 25px;
+    right: -965px; ;
+    
+    color: gray;
+}
+    p{
+        position: relative;
+        left: 200px;
+    
+    justify-self: left;
+}
+
+img{
+    position: relative;
+    left: 200px;
+    justify-self: left;
+}
+.contenair{
+    background-color: white;
+    width: 800px;
+    height: 700px;
+}
